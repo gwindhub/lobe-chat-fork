@@ -109,7 +109,7 @@ const OpenAI: ModelProviderCard = {
       displayName: 'GPT-4 ALL',
       files: true,
       functionCall: true,
-      hidden: true,
+      
       id: 'gpt-4-all',
       tokens: 32_768,
       vision: true,
